@@ -1,6 +1,5 @@
 ## Olá, eu sou Adriano Gomes 
 
-
 <img align="right" alt="Fogueira" width="230"  src="http://38.media.tumblr.com/b789f3bc3d8e27e26f15bd7b67975698/tumblr_n2a1roMOgV1qa6q9uo1_500.gif">
 
 ### E esse é o meu perfil GitHub 👋
@@ -8,14 +7,14 @@
  <div>
   
   - 👨‍🎓 Graduação em andamento: [Engenharia de Software](https://icet.ufam.edu.br/ensino/graduacao/engenharia-de-software/) na [UFAM](https://ufam.edu.br/)
-  - 🔭 Estou trabalhando atualmente como bolsista pesquisador na área de problemas de otimização
+  - 🔭 Atualmente trabalhando como bolsista pesquisador na área de problemas de otimização
   - 🌱 Me interesso muito pela área do Back-end
-
+  - ✨ Pronomes: ele / dele
+ 
 </div>
 
 </div>
 
-<br>
 <hr>
 
 <div>
