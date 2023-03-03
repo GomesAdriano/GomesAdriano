@@ -3,15 +3,19 @@
 
 - 👨‍🎓 Graduação em andamento: [Engenharia de Software](https://icet.ufam.edu.br/ensino/graduacao/engenharia-de-software/) na [UFAM](https://ufam.edu.br/)
 - 🔭 Estou trabalhando atualmente como bolsista pesquisador na área de problemas de otimização
-- 🌱 No momento não estou treinando nenhuma linguagem nova, mas me interesso muito pela área do Back-end
+- 🌱 Me interesso muito pela área do Back-end
+
+<hr>
 
 <div>
   <a href="https://github.com/GomesAdriano">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GomesAdriano&count_private=true&show_icons=true&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesAdriano&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
-</div>
+</div> 
+  
+### Hard Skills:
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   
   <img align="center" alt="Adriano-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   <img align="center" alt="Adriano-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -20,9 +24,7 @@
   
 </div>
 
-<!-- Os ícones vieram daqui: https://github.com/devicons/devicon/tree/master/icons -->
-
-### Social:
+### Mídia Social:
 
 <div>
   <a href = "mailto:adrianosan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
