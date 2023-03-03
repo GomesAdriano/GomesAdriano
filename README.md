@@ -1,10 +1,21 @@
 ## Olá, eu sou Adriano Gomes 
+
+
+<img align="right" alt="Fogueira" width="230"  src="http://38.media.tumblr.com/b789f3bc3d8e27e26f15bd7b67975698/tumblr_n2a1roMOgV1qa6q9uo1_500.gif">
+
 ### E esse é o meu perfil GitHub 👋
 
-- 👨‍🎓 Graduação em andamento: [Engenharia de Software](https://icet.ufam.edu.br/ensino/graduacao/engenharia-de-software/) na [UFAM](https://ufam.edu.br/)
-- 🔭 Estou trabalhando atualmente como bolsista pesquisador na área de problemas de otimização
-- 🌱 Me interesso muito pela área do Back-end
+ <div>
+  
+  - 👨‍🎓 Graduação em andamento: [Engenharia de Software](https://icet.ufam.edu.br/ensino/graduacao/engenharia-de-software/) na [UFAM](https://ufam.edu.br/)
+  - 🔭 Estou trabalhando atualmente como bolsista pesquisador na área de problemas de otimização
+  - 🌱 Me interesso muito pela área do Back-end
 
+</div>
+
+</div>
+
+<hr>
 <hr>
 
 <div>
@@ -30,3 +41,7 @@
   <a href = "mailto:adrianosan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-gomes-9b1779186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+  
+  
+  
+ 
