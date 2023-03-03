@@ -5,34 +5,26 @@
 - 🔭 Estou trabalhando atualmente como bolsista pesquisador na área de problemas de otimização
 - 🌱 No momento não estou treinando nenhuma linguagem nova, mas me interesso muito pela área do Back-end
 
-<br>
-
 <div>
   <a href="https://github.com/GomesAdriano">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GomesAdriano&count_private=true&show_icons=true&theme=dracula"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesAdriano&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
 </div>
 
-<br>
-
 <div style="display: inline_block"><br>
   
-  <img align="center" alt="Adriano-C" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Adriano-PHP" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
-  <img align="center" alt="Adriano-MySql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="Adriano-JavaAndroid" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original-wordmark.svg">
-  <img align="center" alt="Adriano-AndroidStudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original-wordmark.svg">
+  <img align="center" alt="Adriano-C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  <img align="center" alt="Adriano-PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img align="center" alt="Adriano-MySql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Adriano-AndroidStudio" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   
 </div>
 
 <!-- Os ícones vieram daqui: https://github.com/devicons/devicon/tree/master/icons -->
 
-<br>
+### Social:
 
-###
-  
 <div>
   <a href = "mailto:adrianosan23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/adriano-gomes-9b1779186/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
- 
 </div>
