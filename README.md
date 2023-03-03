@@ -19,8 +19,8 @@
 
 <div>
   <a href="https://github.com/GomesAdriano">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GomesAdriano&count_private=true&show_icons=true&theme=dracula"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesAdriano&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GomesAdriano&count_private=true&show_icons=true&theme=dracula&include_all_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GomesAdriano&langs_count=8&layout=compact&count_private=true&show_icons=true&theme=dracula"/>
 </div> 
   
 ### Hard Skills:
