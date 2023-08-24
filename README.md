@@ -6,10 +6,9 @@
 
  <div>
   
-  - 👨‍🎓 Graduação em andamento: [Engenharia de Software](https://icet.ufam.edu.br/ensino/graduacao/engenharia-de-software/) na [UFAM](https://ufam.edu.br/)
-  - 🔭 Atualmente trabalhando como bolsista pesquisador na área de problemas de otimização
-  - 🌱 Me interesso muito pela área do Back-end
-  - ✨ Pronomes: ele / dele
+  - 👨‍🎓 Graduado em [Engenharia de Software](https://icet.ufam.edu.br/ensino/graduacao/engenharia-de-software/) pela [UFAM](https://ufam.edu.br/) no [ICET](https://icet.ufam.edu.br/)
+  - 🔭 Atualmente me capacitando como desenvolvedor web fullstack e bolsista no projeto [Web Academy](https://webacademy.icomp.ufam.edu.br/) no [ICOMP](https://icomp.ufam.edu.br/)
+  - 🌱 Principais áreas de interesse: Back-end e gerenciamento de Banco de Dados
  
 </div>
 
