@@ -7,7 +7,7 @@
  <div>
   
   - 👨‍🎓 Graduado em [Engenharia de Software](https://icet.ufam.edu.br/ensino/graduacao/engenharia-de-software/) pela [UFAM](https://ufam.edu.br/) no [ICET](https://icet.ufam.edu.br/)
-  - 🔭 Atualmente me capacitando como desenvolvedor web fullstack e bolsista no projeto [Web Academy](https://webacademy.icomp.ufam.edu.br/) no [ICOMP](https://icomp.ufam.edu.br/)
+  - 🔭 Atualmente me capacitando como Desenvolvedor Web Fullstack e bolsista no projeto [Web Academy](https://webacademy.icomp.ufam.edu.br/) no [ICOMP](https://icomp.ufam.edu.br/)
   - 🌱 Principais áreas de interesse: Back-end e gerenciamento de Banco de Dados
  
 </div>
